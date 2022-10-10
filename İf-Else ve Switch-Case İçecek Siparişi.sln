@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If-Else İçecek Seçimi", "If-Else İçecek\If-Else İçecek Seçimi.csproj", "{DFDEC14C-2481-4935-9491-DC9FC5E97F7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch-Case İçecek Seçimi", "Switch-Case İçecek Seçimi\Switch-Case İçecek Seçimi.csproj", "{D00A40DE-C3C6-4109-8609-92E591827839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFDEC14C-2481-4935-9491-DC9FC5E97F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDEC14C-2481-4935-9491-DC9FC5E97F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDEC14C-2481-4935-9491-DC9FC5E97F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDEC14C-2481-4935-9491-DC9FC5E97F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00A40DE-C3C6-4109-8609-92E591827839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00A40DE-C3C6-4109-8609-92E591827839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00A40DE-C3C6-4109-8609-92E591827839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00A40DE-C3C6-4109-8609-92E591827839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43BCED03-485A-48DD-A2F7-586B7CDBE47F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\ACER\Desktop\C# Kurs\02.08.2021\If-Else İçecek\If-Else İçecek\bin\Debug\If-Else İçecek.exe.config
+C:\Users\ACER\Desktop\C# Kurs\02.08.2021\If-Else İçecek\If-Else İçecek\bin\Debug\If-Else İçecek.exe
+C:\Users\ACER\Desktop\C# Kurs\02.08.2021\If-Else İçecek\If-Else İçecek\bin\Debug\If-Else İçecek.pdb
+C:\Users\ACER\Desktop\C# Kurs\02.08.2021\If-Else İçecek\If-Else İçecek\obj\Debug\If-Else İçecek.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\C# Kurs\02.08.2021\If-Else İçecek\If-Else İçecek\obj\Debug\If-Else İçecek.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\C# Kurs\02.08.2021\If-Else İçecek\If-Else İçecek\obj\Debug\If-Else İçecek.exe
+C:\Users\ACER\Desktop\C# Kurs\02.08.2021\If-Else İçecek\If-Else İçecek\obj\Debug\If-Else İçecek.pdb
